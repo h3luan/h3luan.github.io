@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+* <span style="color:red">[7]</span> Perlman CM, Law J, **Luan H**, Rios S, Seitz D, Stolee P. Geographic Clustering of Admissions to Inpatient Psychiatry among Adults with Cognitive Disorders in Ontario, Canada: Does Distance to Hospital Matter?. _Canadian Journal of Psychiatry_, 2018; 63(6): 404-409. [Link](https://journals.sagepub.com/doi/full/10.1177/0706743717745870)<br/>
 * <span style="color:red">[6]</span> Quick M, Law J, and **Luan H**. The influence of on-premise and off-premise alcohol outlets on reported violent crime in the Region of Waterloo, Ontario: Applying Bayesian spatial modeling to inform land use planning and policy. _Applied Spatial Analysis and Policy_, 2017; 10(3): 435-454. [Link](https://link.springer.com/article/10.1007/s12061-016-9191-5) <br/>
 * <span style="color:red">[5]</span> **Luan H**, Minaker L, and Law J. Do marginalized neighborhoods have less healthy retail food environments? An analysis using Bayesian spatial latent factor and hurdle models. _International Journal of Health Geographics_, 2016; 15:29. [Link](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-016-0060-x)<br/>
 * <span style="color:red">[4]</span> **Luan H**, Quick M, and Law J. Analyzing local spatio-temporal patterns of police calls-for-service using Bayesian Integrated Nested Laplace Approximation, _ISPRS International Journal of Geo-Information_, 2016; 5(9), 162. [Link](https://www.mdpi.com/2220-9964/5/9/162)<br/>
