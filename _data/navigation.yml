@@ -9,9 +9,15 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Service"
     url: /portfolio/
     
   - title: "Complete CV"
+    url: /cv/
+  
+  - title: "BUGS and R Code"
+    url: /cv/
+    
+  - title: "Opportunities"
     url: /cv/
     
