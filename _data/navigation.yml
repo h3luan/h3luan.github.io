@@ -7,7 +7,7 @@ main:
     url: /talks/ 
     
   - title: "Projects"
-    url: /cv/
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching/    
@@ -19,6 +19,9 @@ main:
     url: /cv/
   
   - title: "Code"
+    url: /cv/
+  
+  - title: "News"
     url: /cv/
     
   - title: "Opportunities"
