@@ -15,6 +15,19 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+* <span style="color:red">[20]</span>  [Link]()<br/>
+* <span style="color:red">[19]</span>  [Link]()<br/>
+* <span style="color:red">[18]</span>  [Link]()<br/>
+* <span style="color:red">[17]</span>  [Link]()<br/>
+* <span style="color:red">[16]</span>  [Link]()<br/>
+* <span style="color:red">[15]</span>  [Link]()<br/>
+* <span style="color:red">[14]</span>  [Link]()<br/>
+* <span style="color:red">[13]</span>  [Link]()<br/>
+* <span style="color:red">[12]</span>  [Link]()<br/>
+* <span style="color:red">[11]</span>  [Link]()<br/>
+* <span style="color:red">[10]</span>  [Link]()<br/>
+* <span style="color:red">[9]</span> Fuller D, Dorani F, **Luan H**, Anaraki JR, and Mohtasham MB. Predicting sleep, sedentary behaviour, and physical activity from commercially available wearable devices using Rotation Forest Models. _Journal of Physical Activity and Health_, 2018; 15(S1): S42-S43. [Link](https://bmjopensem.bmj.com/content/7/1/e001004)<br/>
+* <span style="color:red">[8]</span> **Luan H**, Law J, and Lysy M. Diving into the consumer nutrition environment: a Bayesian spatial factor analysis of neighborhood restaurant environment. _Spatial and Spatio-temporal Epidemiology_, 2018; 24: 39-51. [Link](https://www.sciencedirect.com/science/article/pii/S1877584516300806?via%3Dihub)<br/>
 * <span style="color:red">[7]</span> Perlman CM, Law J, **Luan H**, Rios S, Seitz D, Stolee P. Geographic Clustering of Admissions to Inpatient Psychiatry among Adults with Cognitive Disorders in Ontario, Canada: Does Distance to Hospital Matter?. _Canadian Journal of Psychiatry_, 2018; 63(6): 404-409. [Link](https://journals.sagepub.com/doi/full/10.1177/0706743717745870)<br/>
 * <span style="color:red">[6]</span> Quick M, Law J, and **Luan H**. The influence of on-premise and off-premise alcohol outlets on reported violent crime in the Region of Waterloo, Ontario: Applying Bayesian spatial modeling to inform land use planning and policy. _Applied Spatial Analysis and Policy_, 2017; 10(3): 435-454. [Link](https://link.springer.com/article/10.1007/s12061-016-9191-5) <br/>
 * <span style="color:red">[5]</span> **Luan H**, Minaker L, and Law J. Do marginalized neighborhoods have less healthy retail food environments? An analysis using Bayesian spatial latent factor and hurdle models. _International Journal of Health Geographics_, 2016; 15:29. [Link](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-016-0060-x)<br/>
