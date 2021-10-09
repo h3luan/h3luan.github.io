@@ -11,12 +11,7 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Service"
-    url: /Service/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Opportunities"
-    url: /Opportunities/
