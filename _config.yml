@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hui(Henry) Luan 栾辉"
   avatar           : "faculty_profile pic.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor </br> Department of Geography"
   location         : "Eugene, OR"
-  employer         :
+  employer         : "University of Oregon"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=In8wIkkAAAAJ&hl=en"
   email            :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  Faculty page     : "https://geography.uoregon.edu/profile/hluan/"
 
 
 # Reading Files
