@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 (Advisees are underlined)
 
-* <span style="color:red">[19]</span> Ransome Y, Luan H, <u>Song I</u>, Fiellin D, and Galea S. Poor mental health days are associated with COVID-19 infection rates in the USA. _American Journal of Preventive Medicine_ (in press)<br/>
+* <span style="color:red">[19]</span> Ransome Y, **Luan H**, <u>Song I</u>, Fiellin D, and Galea S. Poor mental health days are associated with COVID-19 infection rates in the USA. _American Journal of Preventive Medicine_ (in press)<br/>
 * <span style="color:red">[18]</span> **Hui Luan**, <u>Song I</u>, Fiellin D, and Ransome Y. HIV infection prevalence significantly intersects with COVID-19 infection at the area-level: a USA county-level analysis. _Journal of Acquired Immune Deficiency Syndrome_, 2021; 88(2): 125-131. [Link](https://journals.lww.com/jaids/Fulltext/2021/10010/HIV_Infection_Prevalence_Significantly_Intersects.2.aspx)<br/>
 * <span style="color:red">[17]</span> Fuller D, Anaraki JR, Simango Bo, Rayner M, Dorani F, Bozorgi A, **Luan H**, and Basset F. Predicting lying, sitting, walking, and running using Apple Watch and Fitbit data. _BMJ Open Sport & Exercise Medicine_, 2021; 7(1): e001004. [Link](https://bmjopensem.bmj.com/content/7/1/e001004)<br/>
 * <span style="color:red">[16]</span> Quick M and **Luan H**. The spatial structure of socioeconomic advantage: a Bayesian multivariate spatial factor analysis. _International Journal of Geographical Information Science_, 2021; 35(1): 63-83. [Link](https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1759807)<br/>
