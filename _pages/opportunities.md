@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Graduate student position for Fall 2020"
-permalink: /projects/
+permalink: /Opportunities/
 author_profile: true
 ---
 
