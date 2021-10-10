@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-![Complete CV](/files/CV_Hui Luan.pdf)
+[PDF download](https://github.com/h3luan/h3luan.github.io/blob/master/files/CV_Hui%20Luan.pdf)
+

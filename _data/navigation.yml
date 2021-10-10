@@ -13,16 +13,16 @@ main:
     url: /teaching/    
     
   - title: "Service"
-    url: /portfolio/
+    url: /service/
     
   - title: "CV"
     url: /cv/
   
   - title: "Code"
-    url: /cv/
+    url: /code/
   
   - title: "News"
-    url: /cv/
+    url: /news/
     
   - title: "Opportunities"
     url: /opportunities/
