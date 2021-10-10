@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-![Details](Position ad_UOregon.jpg)
+![Details](/images/Position ad_UOregon.jpg)
