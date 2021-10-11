@@ -17,12 +17,6 @@ main:
     
   - title: "CV"
     url: /cv/
-  
-  - title: "Code"
-    url: /code/
-  
-  - title: "News"
-    url: /news/
     
   - title: "Opportunities"
     url: /opportunities/
