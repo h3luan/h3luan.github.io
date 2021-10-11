@@ -20,8 +20,8 @@ Recent news
 =====
 ![Alert](/images/alert_40.jpg) [I am hiring graduate students starting Fall, 2022! Click for more details](https://h3luan.github.io/opportunities/)
 
-![Alert](/images/alert_40.jpg) [CFP AAG 2022: "Spatiotemporal disease mapping and analysis". Click for more details](https://h3luan.github.io/files/CFP_AAG 2022_v2.pdf)
+![Alert](/images/alert_40.jpg) [CFP AAG 2022: "Spatiotemporal disease mapping and analysis". Click for more details](https://h3luan.github.io/files/CFP_AAG 2022_V2.pdf)
 
-![Alert](/images/alert_40.jpg) [I am guest editing a special issue,"Urban Built Environment and Mental Health", in International Journal of Environmental Research and Public Health. Please consider contributing. ](https://www.mdpi.com/journal/ijerph/special_issues/Built_Environment_Mental_Health)
+![Alert](/images/alert_40.jpg) [I am guest editing a special issue,"Urban Built Environment and Mental Health", in International Journal of Environmental Research and Public Health. Please consider contributing. Thanks!](https://www.mdpi.com/journal/ijerph/special_issues/Built_Environment_Mental_Health)
 
 
