@@ -18,6 +18,6 @@ Education
 
 Recent news
 =====
-
+![Alert](/images/alert.jpg) [I am hiring graduate students starting Fall, 2022! Click for more details](https://h3luan.github.io/opportunities/)
 
 
