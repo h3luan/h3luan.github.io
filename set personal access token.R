@@ -4,11 +4,12 @@ library(credentials)
 usethis::use_git_config(user.name="scorpio_luan",user.email="luanhui.gis@gmail.com")
 usethis::create_github_token()
 # credentials::set_github_pat("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")
-credentials::set_github_pat(" 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")
+credentials::set_github_pat("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")
 
 usethis::edit_r_environ()
 
 usethis::git_sitrep()
 
-set_github_pat()
-
+# credentials::set_github_pat()
+# 
+# credentials::git_credential_forget()
