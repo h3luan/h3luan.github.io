@@ -11,7 +11,7 @@ credentials::set_github_pat("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")
 # gitcreds::gitcreds_set()
 
 ## Store PAT manually
-usethis::edit_r_environ()
+usethis::edit_r_environ()  ## Recommended!!!!!
 
 ## Verify PAT setting
 usethis::git_sitrep()
