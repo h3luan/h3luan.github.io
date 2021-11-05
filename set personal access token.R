@@ -3,10 +3,8 @@ library(usethis)
 # 
 usethis::use_git_config(user.name="scorpio_luan",user.email="luanhui.gis@gmail.com")
 usethis::create_github_token()
-# # credentials::set_github_pat("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")
-# # credentials::set_github_pat("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")
 
-## Latest token: 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
+## Latest token: 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
 gitcreds::gitcreds_set()
 
 usethis::edit_r_environ()
