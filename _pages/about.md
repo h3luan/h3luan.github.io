@@ -18,6 +18,8 @@ Education
 
 Recent news
 =====
+![Alert](/images/alert_40.jpg) [I am hornored to be selected as a Vu fellow, 2021-22! Click for more details](https://aidsvu.org/welcoming-the-2021-2011-vu-fellows/?utm_source=AIDSVu+Master+List&utm_campaign=798f616315-EMAIL_CAMPAIGN_2021_10_08_04_40_COPY_01&utm_medium=email&utm_term=0_be7cf3af51-798f616315-)
+
 ![Alert](/images/alert_40.jpg) [I am hiring a graduate student starting Fall, 2022! Click for more details](https://h3luan.github.io/opportunities/)
 
 ![Alert](/images/alert_40.jpg) [CFP AAG 2022: "Spatiotemporal disease mapping and analysis". Click for more details](https://h3luan.github.io/files/CFP_AAG 2022_v2.pdf)
