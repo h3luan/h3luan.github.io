@@ -8,9 +8,9 @@ author_profile: true
 
 Invited
 =====
-* <span style="color:red">[6]</span> **Luan H**. “Harnessing the power of spatial data science to achieve health equity”, _CUNY Graduate School of Public Health & Health Policy_, April 27, New York, NY, USA
+* <span style="color:red">[6]</span> **Luan H**. “Harnessing the power of spatial data science to achieve health equity”, _CUNY Graduate School of Public Health & Health Policy_, April 27, 2023, New York, NY, USA
 
-* <span style="color:red">[5]</span> **Luan H**. “Bayesian probabilistic modeling in spatiotemporal data analysis at small-area levels”, Department of Geography, _Florida State University_, Jan 30, Tallahassee, FL, USA.
+* <span style="color:red">[5]</span> **Luan H**. “Bayesian probabilistic modeling in spatiotemporal data analysis at small-area levels”, Department of Geography, _Florida State University_, Jan 30, 2023, Tallahassee, FL, USA.
 
 * <span style="color:red">[4]</span> **Luan H**. “Bayesian spatial modeling and its applications in health and crime geography”, School of Resource and Environmental Sciences, _Wuhan University_, Dec 27, 2019, Wuhan, China.
 
