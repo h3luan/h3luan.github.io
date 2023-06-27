@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Geography](https://geography.uoregon.edu), [University of Oregon](https://www.uoregon.edu/). My _**research program**_ focuses on advancing Bayesian probabilistic inferences in spatial data analysis, promoting the application of spatial and spatiotemporal analysis in public health, informing the development of geographically tailored, evidence-based health intervention programs, and ultimately improving population health.
 
-My work uses both Markov Chain Monte Carlo (MCMC) and Integrated Nested Laplace Approximation (INLA) to implement Bayesian spatial and spatiotemporal models. These models explicitly address common challenges in statistical analysis of geospatial datasets at small-area levels (e.g.,census tracts and zip codes), including but not limited to _**spatial/temporal autocorrelation, space-time interaction, zero-inflation, data suppression (censoring), and multivariate modeling**_. I also apply machine learning to analyze geospatial mobile health data collected from devices including AppleWatch and Fitbit. 
+My work uses both Markov Chain Monte Carlo (MCMC) and Integrated Nested Laplace Approximation (INLA) algorithms to implement Bayesian spatial and spatiotemporal models. These models explicitly address common challenges in statistical analysis of geospatial datasets at small-area levels (e.g.,census tracts and zip codes), including but not limited to _**spatial/temporal autocorrelation, space-time interaction, zero-inflation, data suppression (censoring), and multivariate modeling**_. I also apply machine learning to analyze geospatial mobile health data collected from devices including AppleWatch and Fitbit. 
 
 Education
 =====
