@@ -14,15 +14,15 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-(&#9733: Joint first authors/Equal contribution; Graduate advisees are underlined)
+(&#9733;: Joint first authors/Equal contribution; Graduate advisees are underlined)
 
-* <span style="color:red">[26]</span> Zhang S&#9733, **Luan H&#9733**, Kong Y, Xi G, and Zhen F. Does online food delivery improve equity of food accessibility? A case study of Nanjing, China. _Journal of Transport Geography_, 2023; 107: 103516. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0966692322002393?via%3Dihub)<br/>
+* <span style="color:red">[26]</span> Zhang S&#9733;, **Luan H&#9733;**, Kong Y, Xi G, and Zhen F. Does online food delivery improve equity of food accessibility? A case study of Nanjing, China. _Journal of Transport Geography_, 2023; 107: 103516. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0966692322002393?via%3Dihub)<br/>
 
 * <span style="color:red">[25]</span> **Luan H** and Ransome Y. County-level spatiotemporal patterns of new HIV diagnosis and pre-exposure prophylaxis (PrEP) use in Mississippi, 2014-2018: a Bayesian analysis of publicly accessible censored data. _Annals of Association of American Geographers_, 2023; 113(1): 129-148. [Link](https://www.tandfonline.com/doi/full/10.1080/24694452.2022.2080040)<br/>
 
 * <span style="color:red">[24]</span> Zhou Y, Zhu L, Matyas CJ, **Luan H**, and J Tang. Assessing environmental conditions associated with spatially varying rainfall structure of North Atlantic tropical cyclones: An object-based climatological analysis. _International Journal of Climatology_ (In press). [Link](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.8156)<br/>
 
-* <span style="color:red">[23]</span> Ransome Y&#9733, **Luan H&#9733**, Dean LT, Quick H, Nassau T, and Brady KA. Is race-specific neighborhood social cohesion key to reducing racial disparities in late HIV diagnosis: A multiyear ecological study. _Spatial and Spatio-temporal Epidemiology_, 2022; 42: 100508. Article awarded for <span style="color:red">**Health Equity Research Excellence**</span> at Yale University. [Link](https://www.sciencedirect.com/science/article/pii/S1877584522000314?via%3Dihub)<br/>
+* <span style="color:red">[23]</span> Ransome Y&#9733;, **Luan H&#9733;**, Dean LT, Quick H, Nassau T, and Brady KA. Is race-specific neighborhood social cohesion key to reducing racial disparities in late HIV diagnosis: A multiyear ecological study. _Spatial and Spatio-temporal Epidemiology_, 2022; 42: 100508. Article awarded for <span style="color:red">**Health Equity Research Excellence**</span> at Yale University. [Link](https://www.sciencedirect.com/science/article/pii/S1877584522000314?via%3Dihub)<br/>
 
 * <span style="color:red">[22]</span> **Luan H** and Zhang S. Jointly modeling bus and taxi ridership: A Bayesian multivariate spatial analysis accounting for cross-ridership correlation. _Transactions in GIS_, 2022; 26(4): 2099-2119. [Link](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12937)<br/>
 
@@ -32,7 +32,7 @@ author_profile: true
 
 * <span style="color:red">[19]</span> Tobin M, Hajna S, Orychock K,…, Muhajarine N, **Luan H**, and Fuller D. Rethinking walkability and developing a conceptual definition of active living environments to guide research and practice. _BMC Public Health_, 2022; 22: 450. [Link](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-12747-3)<br/>
 
-* <span style="color:red">[18]</span> Ransome Y, **Luan H**, <u>Song I</u>, Fiellin D, and Galea S. Poor mental health days are associated with COVID-19 infection rates in the USA. _American Journal of Preventive Medicine_, 2022; 62(3): 326-332. Article featured in <span style="color:red">**Elsevier.com**</span>, <span style="color:red">**AJPM News**</span> pages, <span style="color:red">**EurekAlert**</span>, and <span style="color:red">**AlphaGalileo**</span>. [Link](https://www.sciencedirect.com/science/article/pii/S0749379721005419?via%3Dihub)<br/>
+* <span style="color:red">[18]</span> Ransome Y, **Luan H**, <u>Song I</u>, Fiellin D, and Galea S. Poor mental health days are associated with COVID-19 infection rates in the USA. _American Journal of Preventive Medicine_, 2022; 62(3): 326-332. Article featured in <span style="color:red">**Elsevier.com**</span>, <span style="color:red">**AJPM News pages**</span>, <span style="color:red">**EurekAlert**</span>, and <span style="color:red">**AlphaGalileo**</span>. [Link](https://www.sciencedirect.com/science/article/pii/S0749379721005419?via%3Dihub)<br/>
 
 * <span style="color:red">[17]</span> **Luan H**, <u>Song I</u>, Fiellin D, and Ransome Y. HIV infection prevalence significantly intersects with COVID-19 infection at the area-level: a USA county-level analysis. _Journal of Acquired Immune Deficiency Syndrome_, 2021; 88(2): 125-131. [Link](https://journals.lww.com/jaids/Fulltext/2021/10010/HIV_Infection_Prevalence_Significantly_Intersects.2.aspx)<br/>
 
@@ -42,7 +42,7 @@ author_profile: true
 
 * <span style="color:red">[14]</span> Fuller D, Colwell E, Low Johnathan, Orychock K, Tobin MA, Simango B, Buote R, Van Heerden D, **Luan H**, Cullen K, Slade L, and Taylor NGA. Reliability and validity of commercially available wearable devices for measuring steps, energy expenditure, and heart rate: systematic review. _JMIR mHealth and uHealth_, 2020; 8(9): e18694. [Link](https://mhealth.jmir.org/2020/9/e18694/)<br/>
 
-* <span style="color:red">[13]</span> Ransom Y&#9733, **Luan H&#9733**, Shi X, Duncan D.T, and Subramanian S.V. Alcohol outlet density and area-level heavy drinking are independent risk factors for higher alcohol-related complaints. _Journal of Urban Health_, 2019; 96(6): 889-901. [Link](https://link.springer.com/article/10.1007%2Fs11524-018-00327-z)<br/>
+* <span style="color:red">[13]</span> Ransom Y&#9733;, **Luan H&#9733;**, Shi X, Duncan D.T, and Subramanian S.V. Alcohol outlet density and area-level heavy drinking are independent risk factors for higher alcohol-related complaints. _Journal of Urban Health_, 2019; 96(6): 889-901. [Link](https://link.springer.com/article/10.1007%2Fs11524-018-00327-z)<br/>
 
 * <span style="color:red">[12]</span> Hanning R, **Luan H**, Orava T, Valaitis R, Jung J, Ahmed R. Exploring Student Food Behaviour in Relation to Food Retail over the Time of Implementing Ontario’s School Food and Beverage Policy. _International Journal of Environmental Research and Public Health_, 2019; 16(14), 2563. [Link](https://www.mdpi.com/1660-4601/16/14/2563)<br/>
 
@@ -60,7 +60,7 @@ author_profile: true
 
 * <span style="color:red">[5]</span> **Luan H**, Minaker L, and Law J. Do marginalized neighborhoods have less healthy retail food environments? An analysis using Bayesian spatial latent factor and hurdle models. _International Journal of Health Geographics_, 2016; 15:29. [Link](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-016-0060-x)<br/>
 
-* <span style="color:red">[4]</span> **Luan H&#9733**, Quick M&#9733, and Law J. Analyzing local spatio-temporal patterns of police calls-for-service using Bayesian Integrated Nested Laplace Approximation, _ISPRS International Journal of Geo-Information_, 2016; 5(9), 162. [Link](https://www.mdpi.com/2220-9964/5/9/162)<br/>
+* <span style="color:red">[4]</span> **Luan H&#9733;**, Quick M&#9733;, and Law J. Analyzing local spatio-temporal patterns of police calls-for-service using Bayesian Integrated Nested Laplace Approximation, _ISPRS International Journal of Geo-Information_, 2016; 5(9), 162. [Link](https://www.mdpi.com/2220-9964/5/9/162)<br/>
 
 * <span style="color:red">[3]</span> Du Q, Zhang M, Li Y, **Luan H**, Liang S, and Ren F. Spatial patterns of Ischemic Heart Disease in Shenzhen, China: A Bayesian multi-disease modeling approach to inform health planning policies. _International Journal of Environmental Research and Public Health_, 2016; 13(4), 436. [Link](https://www.mdpi.com/1660-4601/13/4/436)<br/>
 
