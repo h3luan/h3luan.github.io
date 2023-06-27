@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Geography](https://geography.uoregon.edu), [University of Oregon](https://www.uoregon.edu/). My program of research focuses on advancing probabilistic inferences in geospatial data analysis. I use spatiotemporal statsitics, implemented with the Bayesian paradigm, to explore inequities of urban environmental exposures and their associations with human behaviors and health. My work uses both Markov chain Monte Carlo (MCMC) and Integrated Nested Laplace Approximation (INLA) to implement Bayesian models that address common statistical issues in geographical datasets, including spatial/temporal autocorrelation, space-time interaction, zero-inflation, and data suppression. I also apply machine learning to analyze geospatial mobile health data collected from AppleWatch and Fitbit. 
+I am an Assistant Professor in the [Department of Geography](https://geography.uoregon.edu), [University of Oregon](https://www.uoregon.edu/). My research program focuses on advancing Bayesian probabilistic inferences in spatial data analysis, promoting the application of spatial and spatiotemporal analysis in public health, informing the development of geographically tailored, evidence-based health intervention programs, and ultimately improving population health. My work uses both Markov chain Monte Carlo (MCMC) and Integrated Nested Laplace Approximation (INLA) to implement Bayesian models that address common statistical issues in geospatial datasets at small-area levels (e.g.,census tracts and zip codes), including but not limited to spatial/temporal autocorrelation, space-time interaction, zero-inflation, and data suppression. I also apply machine learning to analyze geospatial mobile health data collected from devices including AppleWatch and Fitbit. 
 
 Education
 =====
-* Ph.D in Planning, University of Waterloo, 2016
+* Ph.D in Planning, University of Waterloo, 2017
 * M.S. in Cartography and Geographic Information System, Wuhan University, 2011
 * B.S. in Geographic Information System, Wuhan University, 2009
 
 Recent news
 =====
-![Alert](/images/alert_40.jpg) [I am hornored to be selected as a Vu fellow, 2021-22! Click for more details](https://aidsvu.org/welcoming-the-2021-2011-vu-fellows/?utm_source=AIDSVu+Master+List&utm_campaign=798f616315-EMAIL_CAMPAIGN_2021_10_08_04_40_COPY_01&utm_medium=email&utm_term=0_be7cf3af51-798f616315-)
+![Alert](/images/alert_40.jpg) [I always welcome talented graduate students to work with me on spatial statistics, Bayesian modeling, machine learning, and their applications in various geographical phenomena. Check this position out for Fall 2024!](https://h3luan.github.io/opportunities/)
 
-![Alert](/images/alert_40.jpg) [I am hiring a graduate student starting Fall, 2022! Click for more details](https://h3luan.github.io/opportunities/)
+![Alert](/images/alert_40.jpg) [I am hornored to be selected as a Vu fellow, 2021-22! Click for more details](https://aidsvu.org/welcoming-the-2021-2011-vu-fellows/?utm_source=AIDSVu+Master+List&utm_campaign=798f616315-EMAIL_CAMPAIGN_2021_10_08_04_40_COPY_01&utm_medium=email&utm_term=0_be7cf3af51-798f616315-)
 
 ![Alert](/images/alert_40.jpg) [CFP AAG 2022: "Spatiotemporal disease mapping and analysis". Click for more details](https://h3luan.github.io/files/CFP_AAG 2022_v2.pdf)
 
