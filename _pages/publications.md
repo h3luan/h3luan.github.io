@@ -14,9 +14,9 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-(&#9733: Joint first authors/Equal contribution; Graduate advisees are underlined)
+(&#9733;: Joint first authors/Equal contribution; Graduate advisees are underlined)
 
-* <span style="color:red">[26]</span> Zhang S&#9733, **Luan H&#9733**, Kong Y, Xi G, and Zhen F. Does online food delivery improve equity of food accessibility? A case study of Nanjing, China. _Journal of Transport Geography_, 2023; 107: 103516. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0966692322002393?via%3Dihub)<br/>
+* <span style="color:red">[26]</span> Zhang S&#9733;, **Luan H&#9733;**, Kong Y, Xi G, and Zhen F. Does online food delivery improve equity of food accessibility? A case study of Nanjing, China. _Journal of Transport Geography_, 2023; 107: 103516. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0966692322002393?via%3Dihub)<br/>
 
 * <span style="color:red">[25]</span> **Luan H** and Ransome Y. County-level spatiotemporal patterns of new HIV diagnosis and pre-exposure prophylaxis (PrEP) use in Mississippi, 2014-2018: a Bayesian analysis of publicly accessible censored data. _Annals of Association of American Geographers_, 2023; 113(1): 129-148. [Link](https://www.tandfonline.com/doi/full/10.1080/24694452.2022.2080040)<br/>
 
