@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF download](https://h3luan.github.io/files/CV_Hui Luan_June 16_2023.pdf)
+[PDF download](https://h3luan.github.io/files/CV_Hui Luan - website.pdf)
 
