@@ -24,7 +24,7 @@ I always welcome talented graduate students to work with me on spatial and spati
 
 Recent news
 =====
-![Alert](/images/alert_40.jpg) [Our paper on comparing different spatial accessibility measures of pre-exposure prophylaxis has been published online! ](https://www.sciencedirect.com/science/article/abs/pii/S1047279723001412/)
+![Alert](/images/alert_40.jpg) [Our paper on comparing different spatial accessibility measures of pre-exposure prophylaxis has been published online in Annals of Epidemiology! ](https://www.sciencedirect.com/science/article/abs/pii/S1047279723001412/)
 
 ![Alert](/images/alert_40.jpg) [I am joining the editorial board of Spatial and Spatio-temporal Epidemiology!](https://www.sciencedirect.com/journal/spatial-and-spatio-temporal-epidemiology/about/editorial-board)
 
