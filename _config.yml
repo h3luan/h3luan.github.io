@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hui Luan@UO"
+title                    : "Hui Luan@UTSW"
 title_separator          : "-"
 name                     : &name "Hui (Henry) Luan 栾辉"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hui(Henry) Luan 栾辉"
   avatar           : "faculty_profile pic.jpg"
-  bio              : "Assistant Professor </br> Department of Geography </br> University of Oregon </br> Email:hluan@uoregon.edu </br> Phone:+1 541 346-4546"
-  location         : "Eugene, OR"
+  bio              : "Assistant Professor </br> Peter O'Donnell Jr. School of Public Health </br> UT Southwestern Medical Center </br> Email:hui.luan@utsouthwestern.edu </br> Phone:TBD"
+  location         : "Dallas, TX"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=In8wIkkAAAAJ&hl=en"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Faculty page     : "https://geography.uoregon.edu/profile/hluan/"
+  Faculty page     : "https://profiles.utsouthwestern.edu/profile/230334/hui-luan.html"
 
 
 # Reading Files
