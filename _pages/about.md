@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Geography](https://geography.uoregon.edu), [University of Oregon](https://www.uoregon.edu/). My _**research program**_ focuses on advancing Bayesian probabilistic inferences in spatial data analysis, promoting the application of spatial and spatiotemporal analysis in public health, informing the development of geographically tailored, evidence-based health intervention programs, and ultimately improving population health.
-
-My work uses both Markov Chain Monte Carlo (MCMC) and Integrated Nested Laplace Approximation (INLA) algorithms to implement Bayesian spatial and spatiotemporal models. These models explicitly address common challenges in statistical analysis of geospatial datasets at small-area levels (e.g.,census tracts and zip codes), including but not limited to _**spatial/temporal autocorrelation, space-time interaction, zero-inflation, data suppression (censoring), and multivariate modeling**_. I also apply machine learning to analyze geospatial mobile health data collected from devices including AppleWatch and Fitbit. 
+I am an Assistant Professor of Spatial Epidemiology in the [Peter O'Donnell Jr. School of Public Health](https://osph.utsouthwestern.edu/) at [UT Southwestern Medical Center](https://www.utsouthwestern.edu/). My _**research program**_ investigates two major questions: 1) how do health phenomena vary over space, time, and race/ethnicity? 2) what environmental factors (social, physical, and built) contribute to these spatial, temporal, and racial/ethnic variations? My work focuses on modifiable factors including pre-exposure prophylaxis providers (PrEP) and food outlets. To answer these questions, I use Bayesian spatial and spatiotemporal statistical models and Geographical Information Science techniques. My research aims to advance Bayesian probabilistic inferences in spatial health data analysis, promote the application of spatial and spatiotemporal analysis in public health, inform the development of geographically tailored, evidence-based health intervention programs, and ultimately improve population health.
 
 Education
 =====
@@ -20,7 +18,7 @@ Education
 
 Prospective graduate students
 =====
-I always welcome talented graduate students to work with me on spatial and spatiotemporal statistics, Bayesian modeling, machine learning, and their applications in various geographical phenomena. Check out this position for Fall 2024! [Link](https://h3luan.github.io/opportunities/)
+I always welcome talented graduate students to work with me on spatial and spatiotemporal statistics, Bayesian modeling, machine learning, and their applications in various geographical phenomena. 
 
 Recent news
 =====
