@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Graduate student position for Fall 2024"
+title: "Postdoc position at UTSW"
 permalink: /opportunities/
 author_profile: true
 ---
